@@ -1,8 +1,8 @@
 # Ecommerce-Sales-Analytics
 
 ## Author 
-Nicholas Guthery | 
-Business Data Analytics Student |
+Nicholas Guthery  
+Business Data Analytics Student  
 W.P. Carey School of Bsuiness, Arizona State University 
 
 ## Project Overview
