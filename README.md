@@ -1,4 +1,4 @@
-# Ecommerce-Sales-Analytics
+# ecommerce-sales-analytics
 
 ## Author 
 Nicholas Guthery  
